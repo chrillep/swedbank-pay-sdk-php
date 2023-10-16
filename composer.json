@@ -41,7 +41,7 @@
         "phpunit/php-code-coverage": "^6.1 || ^7.0",
         "codeception/codeception": "^4.1",
         "codeception/module-phpbrowser": "^1.0.0",
-        "codeception/module-asserts": "^1.0.0",
+        "codeception/module-asserts": "^3.0.0",
         "codeception/module-webdriver": "^1.4"
     },
     "autoload": {
